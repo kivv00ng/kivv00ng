@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there 👋 &nbsp;&nbsp;My name is Kiwoong Kim.
+I am constantly studying to grow as a backend developer.<br>
+**Recently, I am learning Java and Spring and working on a side project.**<br>
+This is [my development blog.](https://kimcaprio.tistory.com/)<br>
+On my blog, I share what I learned with GitHub.<br>
 
-<!--
-**kivv00ng/kivv00ng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Languages and Tools**
+</br>
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+<!-- ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)</br>
+</br> -->
+
+
+![kivv00ng's github stats](https://github-readme-stats.vercel.app/api?username=kivv00ng&show_icons=true)
+
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
