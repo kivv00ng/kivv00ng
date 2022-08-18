@@ -1,8 +1,6 @@
 ### Hi there 👋 &nbsp;&nbsp;My name is Kiwoong Kim.
 I am constantly studying to grow as a backend developer.<br>
-**Recently, I am learning Java and Spring and working on a side project.**<br>
-This is [my development blog.](https://kimcaprio.tistory.com/)<br>
-On my blog, I share what I learned with GitHub.<br>
+
 
 **Languages and Tools**
 </br>
